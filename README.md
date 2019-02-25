@@ -1,5 +1,6 @@
 # Txirrinled
 ## Información del proyecto
+Se trata de un proyecto que consiste en controlar automaticamente la luz trasera de una bicicleta,dependiendo de la luminosidad ambiente y de la distancia del vehiculo que le precede y no deslumbrar al conductor del vehiculo con la luz. Aparte, indicadores de luz para señalizar el giro a realizar.
 ## Componentes utilizados
   ### LDR
   Un LDR es un resistor que varía su valor de resistencia eléctrica dependiendo de la cantidad de luz que incide sobre él. Se le llama, también, fotorresistor o fotorresistencia. El valor de resistencia eléctrica de un LDR es bajo cuando hay luz incidiendo en él (en algunos casos puede descender a tan bajo como 50 ohms) y muy alto cuando está a oscuras (puede ser de varios megaohms).
